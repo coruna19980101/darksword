@@ -1,0 +1,16 @@
+[2026-07-22 08:32:06] DarkSword server listening on http://0.0.0.0:8080
+[2026-07-22 08:32:06] Payloads: D:\wwwroot\darksword\payloads
+[2026-07-22 08:32:06] Access: http://localhost:8080/ or http://<IP>:8080/
+[2026-07-22 08:32:06] rce_loader localHost: auto from each request Host (http). Use --c2-host https://... if you need HTTPS or a public URL.
+[2026-07-22 08:32:06] Exfil data saved to: D:\wwwroot\darksword\exfil
+[2026-07-22 08:32:06] Logs saved to: D:\wwwroot\darksword\server.log
+[2026-07-22 08:32:23] GET / from 127.0.0.1
+[2026-07-22 08:32:23] [REQUEST] "GET / HTTP/1.1" 200 -
+[2026-07-22 08:35:04] GET / from 192.168.31.85 (device: 02a51fb5b4f90ed66063099bdb03e6b1)
+[2026-07-22 08:35:04] [REQUEST] "GET / HTTP/1.1" 200 -
+[2026-07-22 08:35:04] GET /frame.html?0.4072418014316913 from 192.168.31.85 (device: 02a51fb5b4f90ed66063099bdb03e6b1)
+[2026-07-22 08:35:04] [REQUEST] "GET /frame.html?0.4072418014316913 HTTP/1.1" 200 -
+[2026-07-22 08:35:18] GET / from 192.168.31.85 (device: 02a51fb5b4f90ed66063099bdb03e6b1)
+[2026-07-22 08:35:18] [REQUEST] "GET / HTTP/1.1" 200 -
+[2026-07-22 08:35:18] GET /frame.html?0.8335036729482093 from 192.168.31.85 (device: 02a51fb5b4f90ed66063099bdb03e6b1)
+[2026-07-22 08:35:18] [REQUEST] "GET /frame.html?0.8335036729482093 HTTP/1.1" 200 -
