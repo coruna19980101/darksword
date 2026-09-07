@@ -5,7 +5,7 @@ DarkSword是一个基于iOS WebKit漏洞链的红队渗透测试框架，支持i
 > **⚠️ 免责声明**：本工具仅用于授权的安全测试和研究目的。使用前请确保您拥有目标系统的合法授权。未经授权的使用可能违反法律法规。
 
 ## 获取完整PRO项目
-最新版Coruna项目，请点击[最新版Coruna项目](https://github.com/coruna19980101/coruna-v2),PRO版已二合一
+最新版Coruna项目，请点击[最新版Coruna项目](https://github.com/coruna19980101/coruna-v2)，PRO版已二合一
 
 如需获取完整PRO版本及技术支持，请联系Telegram：[https://t.me/xiangnan123456](https://t.me/xiangnan123456)（技术支持费用：5000U）
 
